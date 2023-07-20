@@ -2,4 +2,4 @@
  
 I made a change
 
-This is a nice projet
+This is a nice project
